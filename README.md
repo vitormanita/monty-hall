@@ -1,1 +1,1 @@
-# monty-hall
+# Monty Hall Game
